@@ -1,0 +1,10 @@
+Informe: 
+Calidad base del trabajo buena.
+Distintas ampliaciones:
+- Aplicación.
+- Algoritmos de stitching.
+- Trabajo con distintas imágenes.
+- Uso de OCR. 
+Calidad de la presentación buena. 
+Nota sobre 10: 10
+Nota: 2.5
